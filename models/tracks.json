@@ -1,0 +1,26 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "ss",
+      "artist": "ss",
+      "duration": 22,
+      "_id": "4058ad7f-3112-488b-a59f-4438b40500fa",
+      "playlistid": "84cf5a8e-cd3c-4147-a2ae-b0e7bf49e0b1"
+    },
+    {
+      "title": "ss",
+      "artist": "ss",
+      "duration": 22,
+      "_id": "8c2d08f2-f7a5-4742-be00-ef990e2f3e7f",
+      "playlistid": "84cf5a8e-cd3c-4147-a2ae-b0e7bf49e0b1"
+    },
+    {
+      "title": "22",
+      "artist": "22",
+      "duration": 22,
+      "_id": "cacaa85b-ac4a-43ed-acba-053e24006962",
+      "playlistid": "4333c78d-81ec-45a3-8077-6cea0d6b38db"
+    }
+  ]
+}
