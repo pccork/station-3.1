@@ -1,0 +1,75 @@
+<div class="columns is-multiline box has-background-white">
+    <!-- box for location  -->
+    <div class="column is-2.5">
+      <section class="card has-text-centered has-text-white has-background-black">
+        <header class="card-header">
+          <p class="card-header-title is-size-5 is-centered has-text-white">
+            {{>icons/location}}
+          </p>
+          </header>
+          <article class="card-content is-size-5">
+            {{station.title}}
+            <br>
+            Latitude: {{station.latitude}}
+            Longitude: {{station.longitude}}       
+          </article>
+      </section>
+    </div>
+    <!-- box for time weather  -->
+    <div class="column is-2.5">
+      <section class="card has-text-centered has-text-white has-background-black">
+        <header class="card-header">
+          <p class="card-header-title is-size-5 is-centered has-text-white">
+            {{>icons/logo}}
+          </p>
+          </header>
+          <article class="card-content is-size-5">
+            Weather:
+            {{lastCode}}  
+          </article>
+      </section>
+    </div>
+    <!-- box for Minimum and maximium temp -->
+    <div class="column is-2.5">
+      <section class="card has-text-centered has-text-white has-background-black">       
+        <header class="card-header">
+          <p class="card-header-title is-size-5 is-centered has-text-white">
+            {{>icons/temp}}
+          </p>
+          </header>
+          <article class="card-content is-size-5">
+            Min Temp: {{minTemp}} <br>      
+            Max Temp: {{maxTemp}}
+          </article>
+        
+      </section>
+    </div>
+    <!-- box for wind speed -->
+    <div class="column is-2.5">
+      <section class="card has-text-centered has-text-white has-background-black">
+        <header class="card-header">
+          <p class="card-header-title is-size-5 is-centered has-text-white">
+            {{>icons/wind-speed}}
+          </p>
+          </header>
+          <article class="card-content is-size-5">
+            Min Wind Speed: {{minWindSpeed}} <br>
+            Max Wind Speed: {{maxWindSpeed}}
+          </article>
+      </section>
+    </div>
+    <!-- box for Pressure -->
+    <div class="column is-2.5">
+      <section class="card has-text-centered has-text-white has-background-black">
+        <header class="card-header">
+          <p class="card-header-title is-size-5 is-centered has-text-white">
+            {{>icons/atm-pressure}}{{>icons/atm-pressure1}}
+          </p>
+          </header>
+          <article class="card-content is-size-5">
+            Min pressure: {{minPressure}}
+            Max pressure:{{maxPressure}}
+          </article>
+      </section>
+    </div>
+  </div>

@@ -1,0 +1,26 @@
+{
+  "file": "./models/users.json",
+  "users": [
+    {
+      "firstName": "peter",
+      "lastName": "Chuk",
+      "email": "peterchuk@gmail.com",
+      "password": "12345p1",
+      "_id": "c054af09-b4b6-4cbf-a43e-53d35fa77b45"
+    },
+    {
+      "firstName": "peter",
+      "lastName": "chuk1",
+      "email": "peterchuk1@gmail.com",
+      "password": "12345p2",
+      "_id": "f092b5e8-d668-439d-b28c-f846735443ad"
+    },
+    {
+      "firstName": "p",
+      "lastName": "c",
+      "email": "pc",
+      "password": "pc",
+      "_id": "3c847373-2736-4f85-85eb-cb4dd74d2913"
+    }
+  ]
+}

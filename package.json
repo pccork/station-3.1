@@ -1,7 +1,7 @@
 {
-  "name": "playlist",
+  "name": "station",
   "version": "0.2.0",
-  "description": "Simple Playlist Maker",
+  "description": "Simple Station Maker",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -10,6 +10,7 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
+    "dayjs": "^1.11.12",
     "express": "^4.18.2",
     "express-fileupload": "^1.4.0",
     "express-handlebars": "^6.0.7",
@@ -18,7 +19,7 @@
     "uuid": "^9.0.0"
   },
   "repository": {
-    "url": "https://github.com/wit-hdip-comp-sci-2023/playlist-1"
+    "url": "https://github.com/pccork/station-3.git"
   },
   "license": "MIT",
   "keywords": [

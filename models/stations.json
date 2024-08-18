@@ -1,0 +1,64 @@
+{
+  "file": "./models/stations.json",
+  "stations": [
+    {
+      "title": "Cork",
+      "_id": "edb27bfc-7d06-498d-8d91-1a46d3eeba08"
+    },
+    {
+      "title": "Dublin",
+      "_id": "ae94df3a-430e-4c7d-a2af-5e91150635f2"
+    },
+    {
+      "title": "Cork",
+      "userid": "c054af09-b4b6-4cbf-a43e-53d35fa77b45",
+      "_id": "7a6cc0c4-5067-4c0e-8e29-d73af1bc1a18"
+    },
+    {
+      "title": "Dublin",
+      "userid": "f092b5e8-d668-439d-b28c-f846735443ad",
+      "_id": "c793633e-8053-4202-b5f7-a42312d7ca0f"
+    },
+    {
+      "title": "Dublin",
+      "userid": "c054af09-b4b6-4cbf-a43e-53d35fa77b45",
+      "_id": "c2a64091-b716-4a95-95dc-a9fd53610ec5"
+    },
+    {
+      "title": "Kerry",
+      "userid": "c054af09-b4b6-4cbf-a43e-53d35fa77b45",
+      "_id": "08d7e1c6-da3d-45af-964d-b9e9c2d346b3"
+    },
+    {
+      "title": "Kerry",
+      "userid": "3c847373-2736-4f85-85eb-cb4dd74d2913",
+      "_id": "c059b9aa-f0b5-4c0a-9d90-6ed42823d162"
+    },
+    {
+      "title": "Waterford",
+      "userid": "3c847373-2736-4f85-85eb-cb4dd74d2913",
+      "_id": "845cb3ed-4a0b-4dff-94ba-92d560df5367"
+    },
+    {
+      "title": "mayo",
+      "latitude": "150",
+      "longitude": "150",
+      "userid": "3c847373-2736-4f85-85eb-cb4dd74d2913",
+      "_id": "c242ed7b-8990-4c8f-b637-126ad4243ea2"
+    },
+    {
+      "title": "tipp",
+      "latitude": "130",
+      "longitude": "123",
+      "userid": "3c847373-2736-4f85-85eb-cb4dd74d2913",
+      "_id": "31c26f03-06f7-4971-b4a3-d3a067b27fd2"
+    },
+    {
+      "title": "dublin",
+      "latitude": "53.34",
+      "longitude": "6.26",
+      "userid": "3c847373-2736-4f85-85eb-cb4dd74d2913",
+      "_id": "fd5e21b1-a5ef-4abb-ac63-f999269e430a"
+    }
+  ]
+}
