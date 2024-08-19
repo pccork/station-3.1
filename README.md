@@ -178,10 +178,4 @@ Contributions to this project are well come please see below for contact informa
 
 
 
-## contact information
-20108887@mail.wit.ie
-
-## Acknowledgements
-
-codes in this project is based on lectures and labs created and run by my lecture John Rellis in SETU.
 
