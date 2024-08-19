@@ -6,7 +6,7 @@ The Station 2 upload
 # weather station
 
 
-Assignment HDip in Computer Science Web Development 1, SETU
+Assignment HDip in Computer Science Web Development 2, SETU
 
 
 
@@ -158,7 +158,7 @@ Contributions to this project are well come please see below for contact informa
 
 
 
-## contact information
+## Contact information
 20108887@mail.wit.ie
 
 ## Acknowledgements
