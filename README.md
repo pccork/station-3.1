@@ -1,6 +1,6 @@
-# Station 3
-https://github.com/pccork/station-3.git
-# Station 3.0
+# Station 3.1
+https://github.com/pccork/station-3.1.git
+
 The Station 2 upload
 
 # weather station
